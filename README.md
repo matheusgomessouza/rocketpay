@@ -1,4 +1,5 @@
 # Rocketpay
+API de pagamentos desenvolvida durante a edição NLW#4 da Rocketseat, orientada pelo instrutor de ensino Rafael Camarda
 
 To start your Phoenix server:
 
